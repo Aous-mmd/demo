@@ -2,11 +2,9 @@
   "nav-items": [{
    "title": "الرئيسية",
     "link": "/"
-    
   },
-                {
-                  "title": "حول",
-    "link": "/about"
-    
-  },]
+  {
+    "title": "حول",
+    "link": "/about" 
+  }]
 }
